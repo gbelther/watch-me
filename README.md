@@ -14,10 +14,10 @@ As tecnologias utilizadas foram:
 <h3>INICIALIZANDO O APP</h3>
 
 Para iniciar o projeto, siga as instruções:
-git clone git@github.com:gbelther/watch-me.git --> para clonar o repositório;
-yarn --> para instalar as dependências;
-yarn server --> para iniciar o servidor da API;
-yarn dev --> para iniciar o APP;
+- git clone git@github.com:gbelther/watch-me.git --> para clonar o repositório;
+- yarn --> para instalar as dependências;
+- yarn server --> para iniciar o servidor da API;
+- yarn dev --> para iniciar o APP;
 
 
 <h3>IMAGEM DO PROJETO INICIALIZADO</h3>
