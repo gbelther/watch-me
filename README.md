@@ -15,6 +15,7 @@ As tecnologias utilizadas foram:
 
 Para iniciar o projeto, siga as instruções:
 - git clone git@github.com:gbelther/watch-me.git --> para clonar o repositório;
+- cd watch-me --> para navegar até a pasta do projeto
 - yarn --> para instalar as dependências;
 - yarn server --> para iniciar o servidor da API;
 - yarn dev --> para iniciar o APP;
